@@ -88,6 +88,9 @@ New jellyfish design:
 <img width="812" height="1334" alt="image" src="https://github.com/user-attachments/assets/e110739d-4e4e-4d5a-a993-def59eaad6e0" />
 The base is made up of these bulbs:
 <img width="846" height="1174" alt="image" src="https://github.com/user-attachments/assets/31d2cf2a-64c4-418f-aa56-503318dd1e2c" />
+The bulbs are made up of these leaves:
+<img width="820" height="1220" alt="image" src="https://github.com/user-attachments/assets/bed7ce29-b81a-4971-bd47-b50834b9a872" />
+
 
 I also experimented with cloth simulation for brush strokes, which I plan to add to whiskers of the jellyfish:
 <img width="760" height="602" alt="image" src="https://github.com/user-attachments/assets/36b307c1-5b07-4be5-a2f4-e90ea32c536c" />
