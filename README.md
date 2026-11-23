@@ -80,6 +80,21 @@ I used the experimental cloth simulation node in Blender to animate the ruffles.
 
 <img width="1962" height="1612" alt="image" src="https://github.com/user-attachments/assets/ceb0f7d3-943e-49cf-87b1-8417e939eb18" />
 
+Worked on a node setup for creating a shell around any object, and scattering transparent brush strokes to create a glow-y / bloom effect. The yellow highlight also adjusts relative to the camera perspective.
+
+<img width="1086" height="1174" alt="image" src="https://github.com/user-attachments/assets/faf82a6d-2cd3-4785-ad8a-fb62172416ad" />
+
+New jellyfish design: 
+<img width="812" height="1334" alt="image" src="https://github.com/user-attachments/assets/e110739d-4e4e-4d5a-a993-def59eaad6e0" />
+The base is made up of these bulbs:
+<img width="846" height="1174" alt="image" src="https://github.com/user-attachments/assets/31d2cf2a-64c4-418f-aa56-503318dd1e2c" />
+
+I also experimented with cloth simulation for brush strokes, which I plan to add to whiskers of the jellyfish:
+<img width="760" height="602" alt="image" src="https://github.com/user-attachments/assets/36b307c1-5b07-4be5-a2f4-e90ea32c536c" />
+<img width="712" height="858" alt="image" src="https://github.com/user-attachments/assets/d7304d22-5872-4fdd-b141-5836f34a385a" />
+<img width="578" height="892" alt="image" src="https://github.com/user-attachments/assets/4e3e304b-5122-4ab1-a2b2-13d5cb326227" />
+
+
 
 ## Final submission: procedural electricity + final composited underwater scene with multiple jellyfish (due 11/30)
 Time to polish! Spen this last week of your project using your generator to produce beautiful output. Add textures, tune parameters, play with colors, play with camera animation. Take the feedback from class critques and use it to take your project to the next level.
