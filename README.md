@@ -75,6 +75,9 @@ I used the experimental cloth simulation node in Blender to animate the ruffles.
 
 
 ## Milestone 2: More brush stroke exploration + scene setup (due 11/23)
+<img width="1920" height="1080" alt="jellyfish-milestone-2" src="https://github.com/user-attachments/assets/110dafd9-842c-4657-8581-4d405fc69faf" />
+
+
 <img width="1962" height="1612" alt="image" src="https://github.com/user-attachments/assets/ceb0f7d3-943e-49cf-87b1-8417e939eb18" />
 
 
